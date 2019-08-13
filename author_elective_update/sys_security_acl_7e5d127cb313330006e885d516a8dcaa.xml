@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="DELETE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on sn_apptwo_foobar</description>
+        <name>sn_apptwo_foobar</name>
+        <operation display_value="create">create</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-13 23:34:19</sys_created_on>
+        <sys_id>7e5d127cb313330006e885d516a8dcaa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sn_apptwo_foobar</sys_name>
+        <sys_package display_value="apptwo" source="sn_apptwo">8afcd23cb313330006e885d516a8dc8f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="apptwo">8afcd23cb313330006e885d516a8dc8f</sys_scope>
+        <sys_update_name>sys_security_acl_7e5d127cb313330006e885d516a8dcaa</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-13 23:34:19</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="apptwo">8afcd23cb313330006e885d516a8dc8f</application>
+        <file_path/>
+        <instance_id>b9bb0569a5223300ddd7b25c30a484f7</instance_id>
+        <instance_name>glide_db_dump</instance_name>
+        <name>sys_security_acl_7e5d127cb313330006e885d516a8dcaa</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description>Default access control on sn_apptwo_foobar</description><name>sn_apptwo_foobar</name><operation display_value="create">create</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-08-13 23:34:19</sys_created_on><sys_id>7e5d127cb313330006e885d516a8dcaa</sys_id><sys_mod_count>0</sys_mod_count><sys_name>sn_apptwo_foobar</sys_name><sys_package display_value="apptwo" source="sn_apptwo">8afcd23cb313330006e885d516a8dc8f</sys_package><sys_policy/><sys_scope display_value="apptwo">8afcd23cb313330006e885d516a8dc8f</sys_scope><sys_update_name>sys_security_acl_7e5d127cb313330006e885d516a8dcaa</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-08-13 23:34:19</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+        <payload_hash>1711870883</payload_hash>
+        <record_name>sn_apptwo_foobar</record_name>
+        <reverted_from/>
+        <source>06fc163cb313330006e885d516a8dc93</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-13 23:34:19</sys_created_on>
+        <sys_id>b65d127cb313330006e885d516a8dcae</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16c8d55156a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-13 23:34:19</sys_updated_on>
+        <type>Access Control</type>
+        <update_guid>fe5d127caf133300c7037aa9181765ad</update_guid>
+        <update_guid_history>fe5d127caf133300c7037aa9181765ad:1711870883</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-13 23:36:11</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
+        <sys_id>4ed9cd7c7f2d4a2cabe0d3f5df5b34e9</sys_id>
+        <sys_metadata>7e5d127cb313330006e885d516a8dcaa</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sn_apptwo_foobar</sys_name>
+        <sys_package display_value="apptwo" source="sn_apptwo">8afcd23cb313330006e885d516a8dc8f</sys_package>
+        <sys_parent display_value="">0f5d127cb313330006e885d516a8dcea</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="apptwo">8afcd23cb313330006e885d516a8dc8f</sys_scope>
+        <sys_scope_delete display_value="">11f150f4eec64108876f6a96f28e4b10</sys_scope_delete>
+        <sys_update_name>sys_security_acl_7e5d127cb313330006e885d516a8dcaa</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_7e5d127cb313330006e885d516a8dcaa">b65d127cb313330006e885d516a8dcae</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-13 23:36:11</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
